@@ -70,7 +70,7 @@ blog2/
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/vishalkhade25/blogistiq.git
 ```
 
 ### Backend Setup
